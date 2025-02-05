@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/tareqfaiz/movie_search-webapp.git",
+  "homepage": "https://tareqfaiz.github.io/react-moviesearch-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
